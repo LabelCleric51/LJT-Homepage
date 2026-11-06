@@ -3,7 +3,7 @@ title: 'C-Eval: A Multi-Level Multi-Discipline Chinese Evaluation Suite for Foun
 collection: publications
 category: publications
 permalink: /publication/c-eval-chinese-evaluation-suite-foundation-models
-date: '2023'
+date: '2023-01-01'
 year: '2023'
 order: 5
 venue: 'NeurIPS 2023'
